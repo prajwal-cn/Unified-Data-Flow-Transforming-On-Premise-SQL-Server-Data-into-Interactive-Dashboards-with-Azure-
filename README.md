@@ -1,5 +1,5 @@
 # Unified Data Flow: Transforming On-Premise SQL Server Data into Interactive Dashboards with Azure Services
-
+![image](https://github.com/prajwal-cn/Unified-Data-Flow-Transforming-On-Premise-SQL-Server-Data-into-Interactive-Dashboards-with-Azure-/assets/127007794/813b29ea-c002-41c5-97ea-bc9a88983520)
 ## Overview
 This project demonstrates a comprehensive end-to-end data pipeline, utilizing Azure services to transform data from an on-premise SQL Server database into interactive dashboards with Microsoft Power BI. The pipeline involves ingestion, storage, transformation, and visualization of the data, incorporating various Azure services for seamless integration and enhanced analytics capabilities.
 
